@@ -1,0 +1,4 @@
+pyrealsense2
+numpy
+torch
+opencv_python

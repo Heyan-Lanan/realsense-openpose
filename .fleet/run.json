@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        
+        {
+            "name": "demo",
+            "type": "python",
+            "workingDir": "E:\\realsense-openpose-master",
+            "environment": {
+                "PYTHONUNBUFFERED": "1",
+                "PYTHONPATH": "E:\\realsense-openpose-master"
+            },
+            "file": "E:\\realsense-openpose-master\\demo.py"
+        }
+    ]
+}
